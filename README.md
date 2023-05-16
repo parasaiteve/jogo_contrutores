@@ -3,6 +3,29 @@
 # status do projeto ✔️ Concluído
 # topicos
 
-🔹 código criado em c++ usando contrutores
+🔹 Descrição do projeto
 
-🔹 o código do jogo pode gerar um número aleatório de 1 a 100 para o usuario acertar, caso o usuario acerte ele dira o número de tentativas para o usuario e qual era o número
+🔹 Funcionalidades
+
+🔹 Linguagem programada
+
+🔹 Como deve rodar o programa
+
+# Descrição do projeto
+um jogo de advinhação com numeros gerados aleatoriamente de 0 a 100
+
+# Funcionalidades
+
+o progama pode gerar um numero aleatoria de 1 a 100 e pedir para o usuario chute a resposta
+
+o programa dirá a quantidades de tentativas pelo usuario
+
+dira se o numero chutado pelo o usuario é maior ou menos
+
+# Linguagem programada
+
+programa usada em c++
+
+# como deve rodar o programa 
+
+o programa deve ser colocado em um compílador como programiz ou no Visual Studio Code ou 2022
